@@ -1,2 +1,1 @@
-# hello-world
-helloWorld
+I am Seun Badejo.
